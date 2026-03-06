@@ -63,9 +63,7 @@ The project includes visualizations such as:
 - Trend analysis
 - Interactive Plotly charts
 
----
 
-## 🚀 How to Run the Project
 
 1 Clone the repository
 # Netflix-Dataset
